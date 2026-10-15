@@ -1,0 +1,7 @@
+numpy
+polars
+pyarrow
+matplotlib
+scikit-learn
+rdkit
+jupyter

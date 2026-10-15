@@ -1,0 +1,6 @@
+# Données Kaggle (2,8 Go) et cache local : non versionnés
+enveda-CASMI26-molecule-id-mass-spectra*/
+cache/
+*.parquet
+.DS_Store
+.ipynb_checkpoints/
